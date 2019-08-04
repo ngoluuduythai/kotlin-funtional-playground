@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca9f9382-9712-4ea0-aaaa-79341fd14ff0" name="Default" comment="" />
+    <list default="true" id="ca9f9382-9712-4ea0-aaaa-79341fd14ff0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/pastry/Machine.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/freesoft/functional/EitherDataType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/com/freesoft/functional/EitherDataType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/EitherDataType.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/EitherDataType.kt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -34,8 +40,20 @@
       <file leaf-file-name="Main.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#33#146#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/pastry/Person.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -64,23 +82,50 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EitherDataType.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EitherDataType.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/EitherDataType.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+            <state relative-caret-position="-64">
+              <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
               <folding>
-                <element signature="e#33#114#0" expanded="true" />
+                <element signature="e#33#146#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Either.kt" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-core/0.7.3/98274a4ae560f91419b6201ea9a2d13c005bd60a/arrow-core-0.7.3-sources.jar!/arrow/core/Either.kt">
+      <file leaf-file-name="EvalMonadDataType.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/EvalMonadDataType.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+            <state relative-caret-position="170">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Oven.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/pastry/Oven.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Machine.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/pastry/Machine.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bakeable.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/pastry/Bakeable.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -94,21 +139,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AssertionsJVM.kt" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.41/785575d6b699a02527a4ad16f0972fa2c1ee583f/kotlin-stdlib-1.3.41-sources.jar!/kotlin/util/AssertionsJVM.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -519,11 +556,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/Main.kt" />
         <option value="$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/FunctionalDataTypes.kt" />
         <option value="$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/IdMonadDataType.kt" />
         <option value="$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/OptionDataType.kt" />
         <option value="$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/EitherDataType.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/EvalMonadDataType.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/pastry/Bakeable.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/pastry/Machine.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/pastry/Oven.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/Main.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/pastry/Donut.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/pastry/Result.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/pastry/Person.kt" />
       </list>
     </option>
   </component>
@@ -603,6 +647,17 @@
               <item name="arrow-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="arrow-demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="freesoft" type="462c0819:PsiDirectoryNode" />
+              <item name="functional" type="462c0819:PsiDirectoryNode" />
+              <item name="pastry" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arrow-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arrow-demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -669,7 +724,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.EitherDataType.test_either_map">
+  <component name="RunManager" selected="Kotlin.com.freesoft.functional.MainKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -725,29 +780,6 @@
       <option name="PACKAGE_NAME" value="com.freesoft.functional" />
       <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.EitherDataType" />
       <option name="METHOD_NAME" value="test_either_map" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="FunctionalDataTypes.test_id_monad" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="arrow-demo_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.freesoft.functional.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.freesoft.functional" />
-      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.FunctionalDataTypes" />
-      <option name="METHOD_NAME" value="test_id_monad" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -820,6 +852,16 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="com.freesoft.functional.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="arrow-demo_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -843,19 +885,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.FunctionalDataTypes.test_id_monad" />
       <item itemvalue="JUnit.OptionDataType.test_option" />
       <item itemvalue="JUnit.OptionDataType.test_option_map" />
       <item itemvalue="JUnit.EitherDataType.either_test" />
       <item itemvalue="JUnit.EitherDataType.test_either_map" />
+      <item itemvalue="Kotlin.com.freesoft.functional.MainKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.freesoft.functional.MainKt" />
         <item itemvalue="JUnit.EitherDataType.test_either_map" />
         <item itemvalue="JUnit.EitherDataType.either_test" />
         <item itemvalue="JUnit.OptionDataType.test_option_map" />
         <item itemvalue="JUnit.OptionDataType.test_option" />
-        <item itemvalue="JUnit.FunctionalDataTypes.test_id_monad" />
       </list>
     </recent_temporary>
   </component>
@@ -869,23 +911,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564906870278</updated>
-      <workItem from="1564906872483" duration="7880000" />
+      <workItem from="1564906872483" duration="10755000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OptionDataType_test_option - 2019.08.04 at 12h 59m 24s.xml">
-      <configuration name="OptionDataType.test_option" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OptionDataType_test_option - 2019.08.04 at 14h 33m 18s.xml">
-      <configuration name="OptionDataType.test_option" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OptionDataType_test_option - 2019.08.04 at 14h 34m 22s.xml">
-      <configuration name="OptionDataType.test_option" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OptionDataType_test_option - 2019.08.04 at 14h 35m 33s.xml">
-      <configuration name="OptionDataType.test_option" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="OptionDataType_test_option_map - 2019.08.04 at 14h 40m 13s.xml">
       <configuration name="OptionDataType.test_option_map" configurationId="JUnit" />
     </history-entry>
@@ -904,9 +934,21 @@
     <history-entry file="EitherDataType_either_test - 2019.08.04 at 15h 03m 35s.xml">
       <configuration name="EitherDataType.either_test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="EitherDataType_test_either_map - 2019.08.04 at 16h 16m 31s.xml">
+      <configuration name="EitherDataType.test_either_map" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EitherDataType_test_either_map - 2019.08.04 at 16h 19m 55s.xml">
+      <configuration name="EitherDataType.test_either_map" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EitherDataType_test_either_map - 2019.08.04 at 16h 20m 52s.xml">
+      <configuration name="EitherDataType.test_either_map" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EitherDataType_test_either_map - 2019.08.04 at 16h 21m 33s.xml">
+      <configuration name="EitherDataType.test_either_map" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7880000" />
+    <option name="totallyTimeSpent" value="10755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -934,7 +976,7 @@
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.44299674" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.44299674" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" weight="0.32899022" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20135747" />
@@ -1009,13 +1051,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/IdMonadDataType.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -1045,18 +1080,63 @@
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-core/0.7.3/98274a4ae560f91419b6201ea9a2d13c005bd60a/arrow-core-0.7.3-sources.jar!/arrow/core/Either.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        <state relative-caret-position="250">
+          <caret line="324" column="10" selection-start-line="324" selection-start-column="10" selection-end-line="324" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/EitherDataType.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+        <state relative-caret-position="-64">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
           <folding>
-            <element signature="e#33#114#0" expanded="true" />
+            <element signature="e#33#146#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/EvalMonadDataType.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/pastry/Bakeable.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/pastry/Machine.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/pastry/Oven.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#33#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/pastry/Person.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
         </state>
       </provider>
     </entry>

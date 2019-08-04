@@ -1,8 +1,6 @@
 package com.freesoft.functional
 
-import arrow.core.Either
-import arrow.core.flatMap
-import arrow.core.getOrElse
+import arrow.core.*
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertTrue
 import org.junit.Test
@@ -27,11 +25,17 @@ class EitherDataType {
         val rightOnly: Either<String, Int> = Either.right(50)
         val leftOnly: Either<String, Int> = Either.left("bar")
 
+        println(rightOnly.left())
+        println(leftOnly.right())
+
         assertEquals(0, rightOnly.map { it % 2 }.getOrElse { -1 })
         assertEquals(-1, leftOnly.map { it % 2 }.getOrElse { -1 })
 
         val rightFlatMap = rightOnly.flatMap { Either.right(it % 2) }
-        val leftFlatMap = leftOnly.flatMap { Either.Right(it % 2) }
+        val leftFlatMap = leftOnly.flatMap {
+            println(it)
+            Either.Right(it % 2)
+        }
 
         assertTrue(rightFlatMap.isRight())
         assertTrue(leftFlatMap.isLeft())
