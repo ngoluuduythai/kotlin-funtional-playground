@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca9f9382-9712-4ea0-aaaa-79341fd14ff0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/freesoft/functional/FunctionalDataTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/OptionDataType.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/OptionDataType.kt" afterDir="false" />
-    </list>
+    <list default="true" id="ca9f9382-9712-4ea0-aaaa-79341fd14ff0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -55,7 +52,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OptionDataType.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OptionDataType.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/OptionDataType.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="157">
@@ -63,6 +60,27 @@
               <folding>
                 <element signature="e#33#79#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EitherDataType.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/EitherDataType.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+              <folding>
+                <element signature="e#33#114#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Either.kt" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-core/0.7.3/98274a4ae560f91419b6201ea9a2d13c005bd60a/arrow-core-0.7.3-sources.jar!/arrow/core/Either.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -505,6 +523,7 @@
         <option value="$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/FunctionalDataTypes.kt" />
         <option value="$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/IdMonadDataType.kt" />
         <option value="$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/OptionDataType.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/EitherDataType.kt" />
       </list>
     </option>
   </component>
@@ -650,7 +669,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.OptionDataType.test_option_map">
+  <component name="RunManager" selected="JUnit.EitherDataType.test_either_map">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -669,6 +688,52 @@
       <setting name="port" value="0" />
       <setting name="replType" value="0" />
       <module name="" />
+    </configuration>
+    <configuration name="EitherDataType.either_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="arrow-demo_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.freesoft.functional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.freesoft.functional" />
+      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.EitherDataType" />
+      <option name="METHOD_NAME" value="either_test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="EitherDataType.test_either_map" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="arrow-demo_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.freesoft.functional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.freesoft.functional" />
+      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.EitherDataType" />
+      <option name="METHOD_NAME" value="test_either_map" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="FunctionalDataTypes.test_id_monad" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="arrow-demo_test" />
@@ -755,16 +820,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="com.freesoft.functional.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="arrow-demo_main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.MainKt" />
-      <option name="WORKING_DIRECTORY" />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -788,17 +843,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.com.freesoft.functional.MainKt" />
       <item itemvalue="JUnit.FunctionalDataTypes.test_id_monad" />
       <item itemvalue="JUnit.OptionDataType.test_option" />
       <item itemvalue="JUnit.OptionDataType.test_option_map" />
+      <item itemvalue="JUnit.EitherDataType.either_test" />
+      <item itemvalue="JUnit.EitherDataType.test_either_map" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.EitherDataType.test_either_map" />
+        <item itemvalue="JUnit.EitherDataType.either_test" />
         <item itemvalue="JUnit.OptionDataType.test_option_map" />
         <item itemvalue="JUnit.OptionDataType.test_option" />
         <item itemvalue="JUnit.FunctionalDataTypes.test_id_monad" />
-        <item itemvalue="Kotlin.com.freesoft.functional.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -812,17 +869,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564906870278</updated>
-      <workItem from="1564906872483" duration="5673000" />
+      <workItem from="1564906872483" duration="7880000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OptionDataType_test_option - 2019.08.04 at 12h 56m 58s.xml">
-      <configuration name="OptionDataType.test_option" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OptionDataType_test_option - 2019.08.04 at 12h 57m 49s.xml">
-      <configuration name="OptionDataType.test_option" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="OptionDataType_test_option - 2019.08.04 at 12h 59m 24s.xml">
       <configuration name="OptionDataType.test_option" configurationId="JUnit" />
     </history-entry>
@@ -847,9 +898,15 @@
     <history-entry file="OptionDataType_test_option_map - 2019.08.04 at 14h 47m 33s.xml">
       <configuration name="OptionDataType.test_option_map" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="EitherDataType_either_test - 2019.08.04 at 15h 02m 38s.xml">
+      <configuration name="EitherDataType.either_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EitherDataType_either_test - 2019.08.04 at 15h 03m 35s.xml">
+      <configuration name="EitherDataType.either_test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5673000" />
+    <option name="totallyTimeSpent" value="7880000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -877,10 +934,10 @@
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44299674" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44299674" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" weight="0.32899022" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20135747" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20135747" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" weight="0.32899022" />
       <window_info anchor="right" id="Gradle" weight="0.3295626" />
       <window_info anchor="right" id="Theme Preview" />
@@ -899,7 +956,7 @@
       <window_info anchor="right" id="sbt" order="1" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="1" weight="0.32899022" />
       <window_info id="Image Layers" order="1" />
-      <window_info anchor="bottom" id="Run" order="10" visible="true" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.44299674" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="12" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -916,7 +973,7 @@
       <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="right" id="Gradle" order="4" weight="0.3295626" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.20135747" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.20135747" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32899022" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="bottom" id="Message" order="8" />
@@ -982,6 +1039,23 @@
           <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
           <folding>
             <element signature="e#33#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-core/0.7.3/98274a4ae560f91419b6201ea9a2d13c005bd60a/arrow-core-0.7.3-sources.jar!/arrow/core/Either.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/EitherDataType.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+          <folding>
+            <element signature="e#33#114#0" expanded="true" />
           </folding>
         </state>
       </provider>
