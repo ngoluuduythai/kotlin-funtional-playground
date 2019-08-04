@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca9f9382-9712-4ea0-aaaa-79341fd14ff0" name="Default" comment="" />
+    <list default="true" id="ca9f9382-9712-4ea0-aaaa-79341fd14ff0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/Main.kt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -31,20 +36,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+      <file leaf-file-name="Main.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-28">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="102">
+              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/Main.kt">
+      <file leaf-file-name="IdMonadDataType.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/IdMonadDataType.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            <state relative-caret-position="84">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="e#33#112#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OptionDataType.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/OptionDataType.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AssertionsJVM.kt" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.41/785575d6b699a02527a4ad16f0972fa2c1ee583f/kotlin-stdlib-1.3.41-sources.jar!/kotlin/util/AssertionsJVM.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -55,8 +81,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -462,6 +492,8 @@
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/Main.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/FunctionalDataTypes.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/IdMonadDataType.kt" />
       </list>
     </option>
   </component>
@@ -479,6 +511,7 @@
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -536,6 +569,46 @@
               <item name="freesoft" type="462c0819:PsiDirectoryNode" />
               <item name="functional" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="arrow-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arrow-demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="arrow-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arrow-demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arrow-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arrow-demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arrow-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arrow-demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="freesoft" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arrow-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arrow-demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="freesoft" type="462c0819:PsiDirectoryNode" />
+              <item name="functional" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -566,7 +639,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.FunctionalDataTypes.test_id_monad">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -585,6 +658,29 @@
       <setting name="port" value="0" />
       <setting name="replType" value="0" />
       <module name="" />
+    </configuration>
+    <configuration name="FunctionalDataTypes.test_id_monad" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="arrow-demo_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.freesoft.functional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.freesoft.functional" />
+      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.FunctionalDataTypes" />
+      <option name="METHOD_NAME" value="test_id_monad" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -634,8 +730,13 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Kotlin.com.freesoft.functional.MainKt" />
+      <item itemvalue="JUnit.FunctionalDataTypes.test_id_monad" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FunctionalDataTypes.test_id_monad" />
         <item itemvalue="Kotlin.com.freesoft.functional.MainKt" />
       </list>
     </recent_temporary>
@@ -650,12 +751,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564906870278</updated>
-      <workItem from="1564906872483" duration="614000" />
+      <workItem from="1564906872483" duration="3375000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="FunctionalDataTypes_test_id_monad - 2019.08.04 at 11h 50m 26s.xml">
+      <configuration name="FunctionalDataTypes.test_id_monad" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FunctionalDataTypes_test_id_monad - 2019.08.04 at 12h 34m 45s.xml">
+      <configuration name="FunctionalDataTypes.test_id_monad" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FunctionalDataTypes_test_id_monad - 2019.08.04 at 12h 41m 23s.xml">
+      <configuration name="FunctionalDataTypes.test_id_monad" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FunctionalDataTypes_test_id_monad - 2019.08.04 at 12h 42m 56s.xml">
+      <configuration name="FunctionalDataTypes.test_id_monad" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="614000" />
+    <option name="totallyTimeSpent" value="3375000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -672,20 +787,21 @@
       <window_info id="Designer" />
       <window_info anchor="bottom" id="Statistic" />
       <window_info anchor="right" id="Clojure Deps" />
-      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Build" weight="0.32899022" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.32899022" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" weight="0.32899022" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20135747" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20135747" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" weight="0.32899022" />
       <window_info anchor="right" id="Gradle" weight="0.3295626" />
       <window_info anchor="right" id="Theme Preview" />
@@ -712,10 +828,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.41/785575d6b699a02527a4ad16f0972fa2c1ee583f/kotlin-stdlib-1.3.41-sources.jar!/kotlin/util/AssertionsJVM.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/Main.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        <state relative-caret-position="102">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/IdMonadDataType.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#33#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/OptionDataType.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
