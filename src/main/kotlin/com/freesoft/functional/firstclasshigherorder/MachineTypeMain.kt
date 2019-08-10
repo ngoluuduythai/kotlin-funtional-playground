@@ -1,4 +1,4 @@
-package com.freesoft.functional
+package com.freesoft.functional.firstclasshigherorder
 
 typealias Processor<T> = (T) -> Unit
 

@@ -2,46 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca9f9382-9712-4ea0-aaaa-79341fd14ff0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/Unless.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/arrow-demo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/arrow-demo.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/arrow-demo_main.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/MainKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/pastry/Bakeable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/pastry/Machine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/pastry/Oven.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/pastry/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/META-INF/arrow-demo_main.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/freesoft/functional/EitherDataType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/freesoft/functional/IdMonadDataType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/freesoft/functional/OptionDataType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/Lambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/LambdaKt$cap$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/LambdaKt$capitalize$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/LambdaKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/LambdaKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/UnlessKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/UnlessKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/firstclasshigherorder/Lambda.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/firstclasshigherorder/Lambda.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/firstclasshigherorder/MachineMain.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/firstclasshigherorder/MachineMain.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/firstclasshigherorder/MachineTypeMain.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/firstclasshigherorder/MachineTypeMain.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/firstclasshigherorder/Unless.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/firstclasshigherorder/Unless.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -88,7 +60,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/Lambda.kt">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/firstclasshigherorder/Lambda.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="130">
               <caret line="29" selection-start-line="29" selection-end-line="29" />
@@ -97,7 +69,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/Unless.kt">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/firstclasshigherorder/Unless.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
@@ -106,7 +78,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/MachineMain.kt">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/firstclasshigherorder/MachineMain.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
               <caret line="16" selection-start-line="16" selection-end-line="16" />
@@ -114,11 +86,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/MachineTypeMain.kt">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/firstclasshigherorder/MachineTypeMain.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            <state relative-caret-position="187">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/recursivity/Factorial.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="49" column="60" selection-start-line="49" selection-start-column="60" selection-end-line="49" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -128,15 +109,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="104">
               <caret line="565" column="25" selection-start-line="565" selection-start-column="25" selection-end-line="565" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/pastry/Oven.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -202,6 +174,8 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/pastry/Machine.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/MachineMain.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/MachineTypeMain.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/firstclasshigherorder/MachineTypeMain.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/recursivity/Factorial.kt" />
       </list>
     </option>
   </component>
@@ -288,6 +262,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\DevTools\workspace\arrow-demo\src\main\kotlin\com\freesoft\functional\firstclasshigherorder" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -300,7 +279,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.freesoft.functional.MachineTypeMainKt">
+  <component name="RunManager" selected="Kotlin.com.freesoft.functional.recursivity.FactorialKt">
     <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
       <setting name="replType" value="NREPL" />
       <setting name="execution" value="LEININGEN" />
@@ -330,66 +309,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.freesoft.functional.LambdaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.freesoft.functional.firstclasshigherorder.LambdaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="arrow-demo_main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.LambdaKt" />
+      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.firstclasshigherorder.LambdaKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.freesoft.functional.MachineMainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.freesoft.functional.firstclasshigherorder.MachineMainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="arrow-demo_main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.MachineMainKt" />
+      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.firstclasshigherorder.MachineMainKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.freesoft.functional.MachineTypeMainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.freesoft.functional.firstclasshigherorder.MachineTypeMainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="arrow-demo_main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.MachineTypeMainKt" />
+      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.firstclasshigherorder.MachineTypeMainKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.freesoft.functional.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.freesoft.functional.firstclasshigherorder.UnlessKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="arrow-demo_main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.MainKt" />
+      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.firstclasshigherorder.UnlessKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.freesoft.functional.UnlessKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.freesoft.functional.recursivity.FactorialKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="arrow-demo_main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.UnlessKt" />
+      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.recursivity.FactorialKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -405,19 +384,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.com.freesoft.functional.MainKt" />
-      <item itemvalue="Kotlin.com.freesoft.functional.LambdaKt" />
-      <item itemvalue="Kotlin.com.freesoft.functional.UnlessKt" />
-      <item itemvalue="Kotlin.com.freesoft.functional.MachineMainKt" />
-      <item itemvalue="Kotlin.com.freesoft.functional.MachineTypeMainKt" />
+      <item itemvalue="Kotlin.com.freesoft.functional.firstclasshigherorder.LambdaKt" />
+      <item itemvalue="Kotlin.com.freesoft.functional.firstclasshigherorder.UnlessKt" />
+      <item itemvalue="Kotlin.com.freesoft.functional.firstclasshigherorder.MachineMainKt" />
+      <item itemvalue="Kotlin.com.freesoft.functional.firstclasshigherorder.MachineTypeMainKt" />
+      <item itemvalue="Kotlin.com.freesoft.functional.recursivity.FactorialKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.com.freesoft.functional.MachineTypeMainKt" />
-        <item itemvalue="Kotlin.com.freesoft.functional.MachineMainKt" />
-        <item itemvalue="Kotlin.com.freesoft.functional.UnlessKt" />
-        <item itemvalue="Kotlin.com.freesoft.functional.LambdaKt" />
-        <item itemvalue="Kotlin.com.freesoft.functional.MainKt" />
+        <item itemvalue="Kotlin.com.freesoft.functional.recursivity.FactorialKt" />
+        <item itemvalue="Kotlin.com.freesoft.functional.firstclasshigherorder.MachineTypeMainKt" />
+        <item itemvalue="Kotlin.com.freesoft.functional.firstclasshigherorder.MachineMainKt" />
+        <item itemvalue="Kotlin.com.freesoft.functional.firstclasshigherorder.UnlessKt" />
+        <item itemvalue="Kotlin.com.freesoft.functional.firstclasshigherorder.LambdaKt" />
       </list>
     </recent_temporary>
   </component>
@@ -432,7 +411,7 @@
       <option name="presentableId" value="Default" />
       <updated>1564906870278</updated>
       <workItem from="1564906872483" duration="12398000" />
-      <workItem from="1565433715838" duration="2772000" />
+      <workItem from="1565433715838" duration="4405000" />
     </task>
     <servers />
   </component>
@@ -469,7 +448,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15170000" />
+    <option name="totallyTimeSpent" value="16803000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1382" height="744" extended-state="6" />
@@ -493,7 +472,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32899022" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32899022" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Statistic" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
@@ -652,7 +631,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/Lambda.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/firstclasshigherorder/Lambda.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
@@ -669,7 +648,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/Unless.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/firstclasshigherorder/Unless.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
@@ -683,17 +662,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/MachineMain.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/firstclasshigherorder/MachineMain.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/MachineTypeMain.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/firstclasshigherorder/MachineTypeMain.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/recursivity/Factorial.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="49" column="60" selection-start-line="49" selection-start-column="60" selection-end-line="49" selection-end-column="60" />
         </state>
       </provider>
     </entry>

@@ -1,4 +1,4 @@
-package com.freesoft.functional
+package com.freesoft.functional.firstclasshigherorder
 
 fun unless(condition: Boolean, block: () -> Unit) {
     if (!condition) block()
