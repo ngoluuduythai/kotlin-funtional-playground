@@ -18,8 +18,10 @@ fun main(args: Array<String>) {
     val nameComponent = person.component2()
     val ageComponent = person.component3()
 
-
     println(id)
     println(idComponent)
+
+    val sum = { x: Int, y: Int -> x + y }
+    println("Sum = ${sum(10, 20)}")
 
 }
