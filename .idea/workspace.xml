@@ -35,18 +35,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/Main.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-              <folding>
-                <element signature="e#33#170#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/more/VarargAndLambdas.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -109,11 +97,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/more/Dog.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+            <state relative-caret-position="68">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/more/InfixFunctions.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -182,6 +179,7 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/more/Caregiver.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/more/ExtensionFunctions.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/more/Dog.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/more/InfixFunctions.kt" />
       </list>
     </option>
   </component>
@@ -302,7 +300,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.freesoft.functional.more.ExtensionFunctionsKt">
+  <component name="RunManager" selected="Kotlin.com.freesoft.functional.more.InfixFunctionsKt">
     <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
       <setting name="replType" value="NREPL" />
       <setting name="execution" value="LEININGEN" />
@@ -345,19 +343,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.freesoft.functional.collections.CollectionsMainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="arrow-demo_main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.collections.CollectionsMainKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="com.freesoft.functional.immutability.ImmutableMainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="arrow-demo_main" />
       <option name="VM_PARAMETERS" />
@@ -379,6 +364,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.more.ExtensionFunctionsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.freesoft.functional.more.InfixFunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="arrow-demo_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.more.InfixFunctionsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -407,19 +405,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.com.freesoft.functional.collections.CollectionsMainKt" />
       <item itemvalue="Kotlin.com.freesoft.functional.immutability.ImmutableMainKt" />
       <item itemvalue="Kotlin.com.freesoft.functional.MainKt" />
       <item itemvalue="Kotlin.com.freesoft.functional.more.VarargAndLambdasKt" />
       <item itemvalue="Kotlin.com.freesoft.functional.more.ExtensionFunctionsKt" />
+      <item itemvalue="Kotlin.com.freesoft.functional.more.InfixFunctionsKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.freesoft.functional.more.InfixFunctionsKt" />
         <item itemvalue="Kotlin.com.freesoft.functional.more.ExtensionFunctionsKt" />
         <item itemvalue="Kotlin.com.freesoft.functional.more.VarargAndLambdasKt" />
         <item itemvalue="Kotlin.com.freesoft.functional.MainKt" />
         <item itemvalue="Kotlin.com.freesoft.functional.immutability.ImmutableMainKt" />
-        <item itemvalue="Kotlin.com.freesoft.functional.collections.CollectionsMainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -434,7 +432,7 @@
       <option name="presentableId" value="Default" />
       <updated>1564906870278</updated>
       <workItem from="1564906872483" duration="12398000" />
-      <workItem from="1565433715838" duration="16562000" />
+      <workItem from="1565433715838" duration="17413000" />
     </task>
     <servers />
   </component>
@@ -471,13 +469,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28960000" />
+    <option name="totallyTimeSpent" value="29811000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.204236" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.204236" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -488,8 +486,8 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2618658" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39934534" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2618658" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -817,8 +815,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/more/Dog.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/more/InfixFunctions.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
         </state>
       </provider>
     </entry>
