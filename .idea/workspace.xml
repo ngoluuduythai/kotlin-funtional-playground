@@ -47,18 +47,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/dsl/CycleDSL.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="e#37#189#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/recursivity/Factorial.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-86">
@@ -127,14 +115,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/delegates/MakeEvenCustomDelegate.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+            <state relative-caret-position="308">
+              <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
               <folding>
                 <element signature="e#43#117#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/delegates/ClassDelegates.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -204,6 +201,7 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/delegates/DelegatedMap.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/delegates/MakeEventCustomDelegate.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/delegates/MakeEvenCustomDelegate.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/delegates/ClassDelegates.kt" />
       </list>
     </option>
   </component>
@@ -213,11 +211,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-2" />
-    <option name="y" value="339" />
-    <option name="width" value="1375" />
-    <option name="height" value="376" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="3" />
+    <option name="y" value="325" />
+    <option name="width" value="1378" />
+    <option name="height" value="387" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -336,7 +334,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.freesoft.functional.delegates.MakeEvenCustomDelegateKt">
+  <component name="RunManager" selected="Kotlin.com.freesoft.functional.delegates.ClassDelegatesKt">
     <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
       <setting name="replType" value="NREPL" />
       <setting name="execution" value="LEININGEN" />
@@ -366,14 +364,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.freesoft.functional.collections.CollectionsMainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.freesoft.functional.delegates.ClassDelegatesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="arrow-demo_main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.collections.CollectionsMainKt" />
+      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.delegates.ClassDelegatesKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -441,19 +439,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.com.freesoft.functional.collections.CollectionsMainKt" />
       <item itemvalue="Kotlin.com.freesoft.functional.delegates.PropertyDelegatesMainKt" />
       <item itemvalue="Kotlin.com.freesoft.functional.delegates.VetoableDelegatesKt" />
       <item itemvalue="Kotlin.com.freesoft.functional.delegates.DelegatedMapKt" />
       <item itemvalue="Kotlin.com.freesoft.functional.delegates.MakeEvenCustomDelegateKt" />
+      <item itemvalue="Kotlin.com.freesoft.functional.delegates.ClassDelegatesKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.freesoft.functional.delegates.ClassDelegatesKt" />
         <item itemvalue="Kotlin.com.freesoft.functional.delegates.MakeEvenCustomDelegateKt" />
         <item itemvalue="Kotlin.com.freesoft.functional.delegates.DelegatedMapKt" />
         <item itemvalue="Kotlin.com.freesoft.functional.delegates.VetoableDelegatesKt" />
         <item itemvalue="Kotlin.com.freesoft.functional.delegates.PropertyDelegatesMainKt" />
-        <item itemvalue="Kotlin.com.freesoft.functional.collections.CollectionsMainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -468,7 +466,7 @@
       <option name="presentableId" value="Default" />
       <updated>1564906870278</updated>
       <workItem from="1564906872483" duration="12398000" />
-      <workItem from="1565433715838" duration="31454000" />
+      <workItem from="1565433715838" duration="31893000" />
     </task>
     <servers />
   </component>
@@ -505,13 +503,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43852000" />
+    <option name="totallyTimeSpent" value="44291000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="3" y="325" width="1378" height="387" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.204236" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20485584" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -522,14 +520,14 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.62992126" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20458265" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.3289689" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33388704" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.8031496" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Statistic" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
@@ -941,11 +939,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/delegates/MakeEvenCustomDelegate.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+        <state relative-caret-position="308">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
           <folding>
             <element signature="e#43#117#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/delegates/ClassDelegates.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
         </state>
       </provider>
     </entry>
