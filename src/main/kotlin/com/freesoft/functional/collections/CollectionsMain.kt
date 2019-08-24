@@ -28,4 +28,28 @@ fun main(args: Array<String>) {
     val mappedNumbers = newNumbers.map { i -> i + 1 }
     mappedNumbers.forEach { i -> println("mapped = $i") }
 
+    val strings = newNumbers.elements("Kotlin", 5)
+    strings.forEach { s -> println(s) }
+
+    val seq = sequenceOf(5)
+    val secondSeq = sequenceOf(1)
+
+    val finalSeq = seq + secondSeq
+
+    seq.iterator().forEach { println(it) }
+
+
+    finalSeq.iterator().forEach { println(it) }
+
+    seq.forEach { element -> println(element) }
+
+    println("Corecursive factorial")
+
+
+    val corecursiveFactorial = newNumbers.corecursiveFactorial(10)
+
+
+    corecursiveFactorial.iterator().forEach { println(it) }
+
+
 }
