@@ -14,8 +14,7 @@ fun main(args: Array<String>) {
 //    }
 //    print("Hello ")
 //    Thread.sleep(2000)
-
-
+    
     val computation = thread {
         Thread.sleep(1000)
         println("World")
