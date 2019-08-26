@@ -6,7 +6,6 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/MultithreadsMain.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/MultithreadsMain.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -44,27 +43,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/collections/CollectionsMain.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="51" column="59" selection-start-line="51" selection-start-column="59" selection-end-line="51" selection-end-column="59" />
-              <folding>
-                <element signature="e#45#157#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/delegates/PropertyDelegatesMain.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/delegates/VetoableDelegates.kt">
           <provider selected="true" editor-type-id="text-editor">
@@ -116,11 +94,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/CoroutinesMain.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+            <state relative-caret-position="340">
+              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
               <folding>
                 <element signature="e#44#146#0" expanded="true" />
               </folding>
@@ -128,11 +106,32 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/RealCaseScenarioCoroutines.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="203" column="25" lean-forward="true" selection-start-line="203" selection-start-column="25" selection-end-line="203" selection-end-column="25" />
+              <folding>
+                <element signature="e#44#235#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.50/8ac406cf33e942265c4abb33ee0acdee79292dd6/kotlin-stdlib-common-1.3.50-sources.jar!/kotlin/random/Random.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4573">
+              <caret line="272" column="29" selection-start-line="272" selection-start-column="21" selection-end-line="272" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="93" selection-start-line="16" selection-start-column="93" selection-end-line="16" selection-end-column="93" />
+            <state relative-caret-position="159">
+              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -216,8 +215,9 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/delegates/ClassDelegates.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/ThreadsAndExecutorsMain.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/MultithreadsMain.kt" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/CoroutinesMain.kt" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/RealCaseScenarioCoroutines.kt" />
       </list>
     </option>
   </component>
@@ -304,10 +304,6 @@
               <item name="functional" type="462c0819:PsiDirectoryNode" />
               <item name="coroutines" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="arrow-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -321,6 +317,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -478,7 +475,7 @@
       <workItem from="1565433715838" duration="33581000" />
       <workItem from="1566752890407" duration="1024000" />
       <workItem from="1566753956624" duration="912000" />
-      <workItem from="1566754947991" duration="324000" />
+      <workItem from="1566754947991" duration="6025000" />
     </task>
     <servers />
   </component>
@@ -515,22 +512,23 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48239000" />
+    <option name="totallyTimeSpent" value="53940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21255673" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21255673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.36497545" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.36497545" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -616,20 +614,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.41/785575d6b699a02527a4ad16f0972fa2c1ee583f/kotlin-stdlib-1.3.41-sources.jar!/kotlin/util/AssertionsJVM.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-core/0.7.3/98274a4ae560f91419b6201ea9a2d13c005bd60a/arrow-core-0.7.3-sources.jar!/arrow/core/Either.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="324" column="10" selection-start-line="324" selection-start-column="10" selection-end-line="324" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/pastry/Person.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -966,10 +950,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/CoroutinesMain.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <element signature="e#44#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.salomonbrys.kotson/kotson/2.5.0/2487bf09e063b6070626fb866d0aba61652cd0ed/kotson-2.5.0-sources.jar!/com/github/salomonbrys/kotson/GsonBuilder.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3604">
+          <caret line="218" column="40" selection-start-line="218" selection-start-column="40" selection-end-line="218" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.50/8ac406cf33e942265c4abb33ee0acdee79292dd6/kotlin-stdlib-common-1.3.50-sources.jar!/kotlin/random/Random.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4573">
+          <caret line="272" column="29" selection-start-line="272" selection-start-column="21" selection-end-line="272" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="93" selection-start-line="16" selection-start-column="93" selection-end-line="16" selection-end-column="93" />
+        <state relative-caret-position="159">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -983,12 +991,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/CoroutinesMain.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/RealCaseScenarioCoroutines.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        <state relative-caret-position="349">
+          <caret line="203" column="25" lean-forward="true" selection-start-line="203" selection-start-column="25" selection-end-line="203" selection-end-column="25" />
           <folding>
-            <element signature="e#44#146#0" expanded="true" />
+            <element signature="e#44#235#0" expanded="true" />
           </folding>
         </state>
       </provider>
