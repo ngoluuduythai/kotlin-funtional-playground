@@ -205,3 +205,35 @@ class MockFactRepository : FactRepository {
         facts[fact.user?.id ?: 0] = fact
     }
 }
+
+class SynchronousUserService(
+        private val userClient: UserClient,
+        private val factClient: FactClient,
+        private val userRepository: UserRepository,
+        private val factRepository: FactRepository) : UserService {
+    override fun getFact(id: UserID): Fact {
+        val user = userRepository.getUserById(id)
+        return if (user == null) {
+            val userFromService = userClient.getUser(id)
+            userRepository.insertUser(userFromService)
+            getFact(userFromService)
+        } else {
+            factRepository.getFactByUserID(id) ?: getFact(user)
+        }
+    }
+
+    private fun getFact(user: User): Fact {
+        val fact = factClient.getFact(user)
+        factRepository.insertFact(fact)
+        return fact
+    }
+}
+
+inline fun <T> inTime(body: () -> T): Pair<T, Long> {
+    val startTime = System.nanoTime()
+    val v = body()
+    val endTime = System.nanoTime()
+    return v to endTime - startTime
+}
+
+
