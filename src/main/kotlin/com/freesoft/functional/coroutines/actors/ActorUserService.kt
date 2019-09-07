@@ -12,7 +12,8 @@ class ActorUserService(
         private val userClient: UserClient,
         private val factClient: FactClient,
         private val userRepository: UserRepository,
-        private val factRepository: FactRepository) : UserService {
+        private val factRepository: FactRepository
+) : UserService {
 
     sealed class UserMsg {
         data class GetFact(val id: UserID, val returner: SendChannel<Fact>) : UserMsg()
