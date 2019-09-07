@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca9f9382-9712-4ea0-aaaa-79341fd14ff0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/arrow-demo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/META-INF/arrow-demo.kotlin_module" afterDir="false" />
-    </list>
+    <list default="true" id="ca9f9382-9712-4ea0-aaaa-79341fd14ff0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -41,11 +38,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/CoroutineContextMain.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="527">
               <caret line="34" column="74" lean-forward="true" selection-start-line="34" selection-start-column="74" selection-end-line="34" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/DeferredCoroutinesMain.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+              <folding>
+                <element signature="e#44#127#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/ChannelMain.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="41" column="22" lean-forward="true" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+              <folding>
+                <element signature="e#44#124#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,9 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/IdMonadDataType.kt" />
-        <option value="$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/OptionDataType.kt" />
-        <option value="$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/EitherDataType.kt" />
         <option value="$PROJECT_DIR$/src/test/kotlin/com/freesoft/functional/EvalMonadDataType.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/pastry/Bakeable.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/pastry/Oven.kt" />
@@ -142,6 +160,9 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/RealCaseScenarioCoroutines.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/CoroutinesUserService.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/CoroutineContextMain.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/DefferedCoroutinesMain.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/DeferredCoroutinesMain.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/ChannelMain.kt" />
       </list>
     </option>
   </component>
@@ -264,7 +285,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.freesoft.functional.coroutines.CoroutineContextMainKt">
+  <component name="RunManager" selected="Kotlin.com.freesoft.functional.coroutines.ChannelMainKt">
     <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
       <setting name="replType" value="NREPL" />
       <setting name="execution" value="LEININGEN" />
@@ -307,6 +328,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.freesoft.functional.coroutines.ChannelMainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="arrow-demo_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.coroutines.ChannelMainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.freesoft.functional.coroutines.CoroutineContextMainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="arrow-demo_main" />
       <option name="VM_PARAMETERS" />
@@ -333,27 +367,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.freesoft.functional.coroutines.FuturesMainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.freesoft.functional.coroutines.DeferredCoroutinesMainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="arrow-demo_main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.coroutines.FuturesMainKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.freesoft.functional.coroutines.RealCaseScenarioCoroutinesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="arrow-demo_main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.coroutines.RealCaseScenarioCoroutinesKt" />
+      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.coroutines.DeferredCoroutinesMainKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -369,19 +390,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.com.freesoft.functional.coroutines.RealCaseScenarioCoroutinesKt" />
       <item itemvalue="Kotlin.com.freesoft.functional.coroutines.CallbacksMainKt" />
-      <item itemvalue="Kotlin.com.freesoft.functional.coroutines.FuturesMainKt" />
       <item itemvalue="Kotlin.com.freesoft.functional.coroutines.CoroutinesUserServiceKt" />
       <item itemvalue="Kotlin.com.freesoft.functional.coroutines.CoroutineContextMainKt" />
+      <item itemvalue="Kotlin.com.freesoft.functional.coroutines.DeferredCoroutinesMainKt" />
+      <item itemvalue="Kotlin.com.freesoft.functional.coroutines.ChannelMainKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.freesoft.functional.coroutines.ChannelMainKt" />
+        <item itemvalue="Kotlin.com.freesoft.functional.coroutines.DeferredCoroutinesMainKt" />
         <item itemvalue="Kotlin.com.freesoft.functional.coroutines.CoroutineContextMainKt" />
         <item itemvalue="Kotlin.com.freesoft.functional.coroutines.CallbacksMainKt" />
         <item itemvalue="Kotlin.com.freesoft.functional.coroutines.CoroutinesUserServiceKt" />
-        <item itemvalue="Kotlin.com.freesoft.functional.coroutines.FuturesMainKt" />
-        <item itemvalue="Kotlin.com.freesoft.functional.coroutines.RealCaseScenarioCoroutinesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -400,7 +421,7 @@
       <workItem from="1566752890407" duration="1024000" />
       <workItem from="1566753956624" duration="912000" />
       <workItem from="1566754947991" duration="16950000" />
-      <workItem from="1567845141431" duration="4364000" />
+      <workItem from="1567845141431" duration="5724000" />
     </task>
     <servers />
   </component>
@@ -437,7 +458,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69229000" />
+    <option name="totallyTimeSpent" value="70589000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -452,7 +473,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.45499182" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.41898528" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -543,20 +564,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/firstclasshigherorder/MachineMain.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/firstclasshigherorder/MachineTypeMain.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.41/8f361846168f853fb213b0ab02d193f02644548/kotlin-stdlib-common-1.3.41-sources.jar!/generated/_Arrays.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
@@ -922,8 +929,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/CoroutineContextMain.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="527">
           <caret line="34" column="74" lean-forward="true" selection-start-line="34" selection-start-column="74" selection-end-line="34" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/DeferredCoroutinesMain.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <element signature="e#44#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/ChannelMain.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="41" column="22" lean-forward="true" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+          <folding>
+            <element signature="e#44#124#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
