@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.http4k:http4k-client-apache:3.175.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.http4k/http4k-client-apache/3.175.0/c7a225cb9dfdc799569a4f3c6c633a7e8e9d3f55/http4k-client-apache-3.175.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.http4k/http4k-client-apache/3.175.0/8ebedea3caa131669b52034f89fcdf149b29d397/http4k-client-apache-3.175.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
