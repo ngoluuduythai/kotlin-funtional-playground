@@ -19,6 +19,7 @@ dependencies {
     implementation 'org.http4k:http4k-client-apache:3.175.0'
     implementation 'org.jetbrains.kotlin:kotlin-stdlib-jdk8'
     implementation 'com.h2database:h2:1.4.199'
+    implementation 'io.reactivex.rxjava2:rxkotlin:2.2.0'
 
     implementation 'com.github.salomonbrys.kotson:kotson:2.5.0'
     implementation 'org.springframework:spring-jdbc:5.1.9.RELEASE'
