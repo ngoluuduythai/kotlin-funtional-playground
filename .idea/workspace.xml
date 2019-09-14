@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca9f9382-9712-4ea0-aaaa-79341fd14ff0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/arrow-demo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/META-INF/arrow-demo.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -107,11 +103,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.6/bc9c98d51bade8ad2f03ac8c44d219c1818c40f5/rxjava-2.1.6-sources.jar!/io/reactivex/Observer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+            <state relative-caret-position="245">
+              <caret line="40" column="49" lean-forward="true" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functors/Option.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functors/CategoryTypesMain.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functors/Monad.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -121,8 +144,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
+        <option value="Kotlin Interface" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -141,10 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/MachineTypeMain.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/firstclasshigherorder/MachineTypeMain.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/recursivity/Factorial.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/collections/Collections.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/collections/CollectionsMap.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/collections/CollectionsFold.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/immutability/ImmutableMain.kt" />
@@ -192,6 +211,10 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/reactive/NonReactiveMain.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/reactive/ReactiveMain.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/reactive/CustomObservable.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functors/Functor.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functors/OptionMain.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functors/Option.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functors/CategoryTypesMain.kt" />
       </list>
     </option>
   </component>
@@ -264,7 +287,7 @@
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="freesoft" type="462c0819:PsiDirectoryNode" />
-              <item name="reactive" type="462c0819:PsiDirectoryNode" />
+              <item name="functors" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -303,7 +326,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.freesoft.reactive.CustomObservableKt">
+  <component name="RunManager">
     <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
       <setting name="replType" value="NREPL" />
       <setting name="execution" value="LEININGEN" />
@@ -346,14 +369,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.freesoft.functional.coroutines.actors.ActorUserServiceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.freesoft.functors.CategoryTypesMainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="arrow-demo_main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.freesoft.functional.coroutines.actors.ActorUserServiceKt" />
+      <option name="MAIN_CLASS_NAME" value="com.freesoft.functors.CategoryTypesMainKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -408,19 +431,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.com.freesoft.functional.coroutines.actors.ActorUserServiceKt" />
       <item itemvalue="Kotlin.com.freesoft.functional.collections.FlatMapKt" />
       <item itemvalue="Kotlin.com.freesoft.reactive.NonReactiveMainKt" />
       <item itemvalue="Kotlin.com.freesoft.reactive.ReactiveMainKt" />
       <item itemvalue="Kotlin.com.freesoft.reactive.CustomObservableKt" />
+      <item itemvalue="Kotlin.com.freesoft.functors.CategoryTypesMainKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.freesoft.functors.CategoryTypesMainKt" />
         <item itemvalue="Kotlin.com.freesoft.reactive.CustomObservableKt" />
         <item itemvalue="Kotlin.com.freesoft.reactive.ReactiveMainKt" />
         <item itemvalue="Kotlin.com.freesoft.reactive.NonReactiveMainKt" />
         <item itemvalue="Kotlin.com.freesoft.functional.collections.FlatMapKt" />
-        <item itemvalue="Kotlin.com.freesoft.functional.coroutines.actors.ActorUserServiceKt" />
       </list>
     </recent_temporary>
   </component>
@@ -439,7 +462,7 @@
       <workItem from="1566752890407" duration="1024000" />
       <workItem from="1566753956624" duration="912000" />
       <workItem from="1566754947991" duration="16950000" />
-      <workItem from="1567845141431" duration="23441000" />
+      <workItem from="1567845141431" duration="27601000" />
     </task>
     <servers />
   </component>
@@ -476,7 +499,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88306000" />
+    <option name="totallyTimeSpent" value="92466000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1382" height="744" extended-state="6" />
@@ -588,30 +611,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/delegates/MakeEvenCustomDelegate.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
-          <folding>
-            <element signature="e#43#117#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/delegates/ClassDelegates.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.salomonbrys.kotson/kotson/2.5.0/2487bf09e063b6070626fb866d0aba61652cd0ed/kotson-2.5.0-sources.jar!/com/github/salomonbrys/kotson/GsonBuilder.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3604">
-          <caret line="218" column="40" selection-start-line="218" selection-start-column="40" selection-end-line="218" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.50/8ac406cf33e942265c4abb33ee0acdee79292dd6/kotlin-stdlib-common-1.3.50-sources.jar!/kotlin/random/Random.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4573">
@@ -976,8 +975,29 @@
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.6/bc9c98d51bade8ad2f03ac8c44d219c1818c40f5/rxjava-2.1.6-sources.jar!/io/reactivex/Observer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        <state relative-caret-position="245">
+          <caret line="40" column="49" lean-forward="true" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functors/Option.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functors/Monad.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functors/CategoryTypesMain.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
         </state>
       </provider>
     </entry>
