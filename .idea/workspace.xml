@@ -2,387 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca9f9382-9712-4ea0-aaaa-79341fd14ff0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/4.6/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.6/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_salomonbrys_kotson_kotson_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_h2database_h2_1_4_199.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_arrow_kt_arrow_annotations_0_7_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_arrow_kt_arrow_core_0_7_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_arrow_kt_arrow_syntax_0_7_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_kindedj_kindedj_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava2_rxjava_2_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava2_rxkotlin_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_http4k_http4k_client_apache_3_175_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_http4k_http4k_core_3_175_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_50.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_50.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_50.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_3_50.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_reactivestreams_reactive_streams_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_5_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_5_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jcl_5_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jdbc_5_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_tx_5_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/arrow-demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/arrow-demo.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/arrow-demo.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/ApplicativeMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/ApplicativeMainKt$main$fab$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/ApplicativeMainKt$main$fab$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/ApplicativeMainKt$main$functions$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/ApplicativeMainKt$main$functions$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/ApplicativeMainKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/CategoryMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/CategoryMainKt$calculateDiscount$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/CategoryMainKt$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/CategoryMainKt$main$2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/CategoryMainKt$main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/CategoryMainKt$main$add3AndMultiplyBy2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/CategoryMainKt$main$add3AndMultiplyBy2$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/CategoryMainKt$main$functions$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/CategoryMainKt$main$functions$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/CategoryMainKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/Function1$pure$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/Function1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/Function1Kt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/Option$Companion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/Option$None.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/Option$Some.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/Option.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/OptionKt$ap$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/OptionKt$map$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/OptionKt$map$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/category/OptionKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/collections/FlatMapKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CallBackFactRepository$getFactByUserId$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CallBackFactRepository$insertFact$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CallBackFactRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CallBackUserRepository$getUserById$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CallBackUserRepository$insertUser$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CallBackUserRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CallBackUserService$getFact$1$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CallBackUserService$getFact$1$1$2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CallBackUserService$getFact$1$1$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CallBackUserService$getFact$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CallBackUserService$getFact$1$2$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CallBackUserService$getFact$1$2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CallBackUserService$getFact$1$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CallBackUserService$getFact$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CallBackUserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CallbackFactClient$get$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CallbackFactClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CallbackUserClient$getUser$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CallbackUserClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CallbacksMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CallbacksMainKt$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CallbacksMainKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/ChannelMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/ChannelMainKt$main$1$sendNumbers$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/ChannelMainKt$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/ChannelMainKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutineContextMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutineContextMainKt$main$1$jobs$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutineContextMainKt$main$1$jobs$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutineContextMainKt$main$1$jobs$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutineContextMainKt$main$1$jobs$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutineContextMainKt$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutineContextMainKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesImmutabilityKt$main$1$invokeSuspend$$inlined$measureTimeMillis$lambda$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesImmutabilityKt$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesImmutabilityKt$repeatInParallel$job$1$invokeSuspend$$inlined$repeat$lambda$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesImmutabilityKt$repeatInParallel$job$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesImmutabilityKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesMainKt$main$1$jobs$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesMainKt$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesMutexKt$main$1$invokeSuspend$$inlined$measureTimeMillis$lambda$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesMutexKt$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesMutexKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesSwitchContextMainKt$main$1$invokeSuspend$$inlined$measureTimeMillis$lambda$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesSwitchContextMainKt$main$1$invokeSuspend$$inlined$measureTimeMillis$lambda$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesSwitchContextMainKt$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesSwitchContextMainKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesUserService$getFact$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesUserService$getFact$1$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesUserService$getFact$1$user$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesUserService$getFact$1$userFromService$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesUserService$getFact$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesUserService$getFact$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesUserService$getFact$3$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesUserService$getFact$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesUserService$getFact$fact$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesUserService$getFact$fact$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesUserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesUserServiceKt$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesUserServiceKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/DeferredCoroutinesMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/DeferredCoroutinesMainKt$main$1$hello$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/DeferredCoroutinesMainKt$main$1$world$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/DeferredCoroutinesMainKt$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/DeferredCoroutinesMainKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/Fact.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/FactClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/FactRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/FutureUserService$getFact$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/FutureUserService$getFact$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/FutureUserService$getFact$fact$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/FutureUserService$getFact$user$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/FutureUserService$getFact$userFromService$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/FutureUserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/FuturesMainKt$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/FuturesMainKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/Gender$Companion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/Gender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/Http4KFactClient$getFact$$inlined$fromJson$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/Http4KFactClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/Http4KUserClient$getUser$$inlined$fromJson$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/Http4KUserClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/JdbcFactRepository$getFactByUserID$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/JdbcFactRepository$getFactByUserID$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/JdbcFactRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/JdbcRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/JdbcUserRepository$getUserById$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/JdbcUserRepository$getUserById$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/JdbcUserRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/MockFactClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/MockFactRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/MockUserClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/MockUserRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/MultithreadsMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/MultithreadsMainKt$main$computation$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/MultithreadsMainKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/RealCaseScenarioCoroutinesKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/SynchronousInvocation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/SynchronousInvocationKt$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/SynchronousInvocationKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/SynchronousUserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/UserClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/UserRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/WebClient$$special$$inlined$registerTypeAdapter$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/WebClient$$special$$inlined$registerTypeAdapter$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/WebClient$gson$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/WebClient$gson$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/WebClient$gson$2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/WebClient$gson$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/WebClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/actors/ActorUserService$FactMsg$GetFactFromService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/actors/ActorUserService$FactMsg$InsertFact.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/actors/ActorUserService$FactMsg$SomeFact.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/actors/ActorUserService$FactMsg$UserFromDb.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/actors/ActorUserService$FactMsg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/actors/ActorUserService$UserMsg$GetFact.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/actors/ActorUserService$UserMsg$InsertUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/actors/ActorUserService$UserMsg$MaybeUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/actors/ActorUserService$UserMsg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/actors/ActorUserService$factActor$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/actors/ActorUserService$getFact$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/actors/ActorUserService$userActor$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/actors/ActorUserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/actors/ActorUserServiceKt$main$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/actors/ActorUserServiceKt$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/actors/ActorUserServiceKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/actors/ActorsKt$counterActor$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/actors/ActorsKt$main$1$invokeSuspend$$inlined$measureTimeMillis$lambda$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/actors/ActorsKt$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/actors/ActorsKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/actors/CounterMsg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/actors/GetCounter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/actors/IncCounter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/channels/Bill.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/channels/ChannelPipelinesKt$accountingEndpoint$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/channels/ChannelPipelinesKt$calculatePriceTransformer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/channels/ChannelPipelinesKt$cheapBillFilter$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/channels/ChannelPipelinesKt$main$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/channels/ChannelPipelinesKt$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/channels/ChannelPipelinesKt$splitter$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/channels/ChannelPipelinesKt$warehouseEndpoint$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/channels/ChannelPipelinesKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/channels/PickingOrder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/channels/Quote.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/reactive/CustomObservableKt$main$observable$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/reactive/CustomObservableKt$main$observer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/reactive/CustomObservableKt$main$secondObservable$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/reactive/CustomObservableKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/reactive/NonReactiveMainKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/reactive/ReactiveMainKt$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/reactive/ReactiveMainKt$main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/reactive/ReactiveMainKt$main$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/reactive/ReactiveMainKt$main$observer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/reactive/ReactiveMainKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/ApplicativeMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/ApplicativeMainKt$main$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/ApplicativeMainKt$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/ApplicativeMainKt$main$2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/ApplicativeMainKt$main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/ApplicativeMainKt$main$fab$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/ApplicativeMainKt$main$fab$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/ApplicativeMainKt$main$functions$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/ApplicativeMainKt$main$functions$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/ApplicativeMainKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/CategoryMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/CategoryMainKt$calculateDiscount$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/CategoryMainKt$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/CategoryMainKt$main$2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/CategoryMainKt$main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/CategoryMainKt$main$add3AndMultiplyBy2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/CategoryMainKt$main$add3AndMultiplyBy2$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/CategoryMainKt$main$functions$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/CategoryMainKt$main$functions$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/CategoryMainKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/Function1$pure$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/Function1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/Function1Kt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/Option$Companion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/Option$None.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/Option$Some.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/Option.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/OptionKt$ap$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/OptionKt$map$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/OptionKt$map$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/category/OptionKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/freesoft/category/ApplicativeMain.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/freesoft/category/CategoryMain.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/freesoft/category/Function1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/freesoft/category/Option.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_arrow_kt_arrow_data_0_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_arrow_kt_arrow_instances_core_0_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_arrow_kt_arrow_instances_data_0_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_arrow_kt_arrow_optics_0_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_arrow_kt_arrow_typeclasses_0_7_3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/arrow-demo.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/arrow-demo.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/arrow-demo.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/arrow-demo.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/arrow-demo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/arrow-demo.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/collections/CollectionsFoldKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/collections/CollectionsFoldKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/collections/CollectionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/collections/CollectionsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/collections/CollectionsMainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/collections/CollectionsMainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/collections/CollectionsMapKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/collections/CollectionsMapKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesMainKt$main$computation$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesMainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/CoroutinesMainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/ThreadsAndExecutorsMainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/coroutines/ThreadsAndExecutorsMainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/dsl/Part.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/dsl/Part.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/more/VarargAndLambdasKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/freesoft/functional/more/VarargAndLambdasKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/arrowdemo10SNAPSHOTjar-classes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/arrowdemo10SNAPSHOTjar-classes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.s" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/inline-functions.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/inline-functions.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/inline-functions.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/inline-functions.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/inline-functions.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/inline-functions.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/inline-functions.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/inline-functions.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/inline-functions.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/inline-functions.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/inline-functions.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/inline-functions.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.s" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.s" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/arrow-demo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/arrow-demo-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/arrow-demo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/META-INF/arrow-demo.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/coroutines/ChannelMainKt$main$1$sendNumbers$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/coroutines/ChannelMainKt$main$1$sendNumbers$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/coroutines/ChannelMainKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/coroutines/ChannelMainKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/coroutines/CoroutineContextMainKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/coroutines/CoroutineContextMainKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/coroutines/CoroutinesImmutabilityKt$repeatInParallel$job$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/coroutines/CoroutinesImmutabilityKt$repeatInParallel$job$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/coroutines/CoroutinesMainKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/coroutines/CoroutinesMainKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/coroutines/channels/ChannelPipelinesKt$accountingEndpoint$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/coroutines/channels/ChannelPipelinesKt$accountingEndpoint$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/coroutines/channels/ChannelPipelinesKt$cheapBillFilter$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/coroutines/channels/ChannelPipelinesKt$cheapBillFilter$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/coroutines/channels/ChannelPipelinesKt$splitter$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/coroutines/channels/ChannelPipelinesKt$splitter$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/coroutines/channels/ChannelPipelinesKt$warehouseEndpoint$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/freesoft/functional/coroutines/channels/ChannelPipelinesKt$warehouseEndpoint$2.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -411,6 +42,32 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="arrow-demo" type="f1a62948:ProjectNode" />
               </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="arrow-demo" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="arrow-demo" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="arrow-demo" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="arrow-demo" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="io.arrow-kt:arrow-core:0.7.3" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
+              </path>
             </expand>
             <select />
           </tree_state>
@@ -421,19 +78,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/Pipes.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+            <state relative-caret-position="204">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.6/bc9c98d51bade8ad2f03ac8c44d219c1818c40f5/rxjava-2.1.6-sources.jar!/io/reactivex/Observer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/Currying.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="221">
+              <caret line="19" column="75" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
+              <folding>
+                <element signature="e#28#140#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/Memoization.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="41" column="100" selection-start-line="41" selection-start-column="100" selection-end-line="41" selection-end-column="100" />
+              <folding>
+                <element signature="e#28#101#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/PartialFunction.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#28#126#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/OpticsAndLens.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="50" column="24" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -443,81 +136,33 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-51">
               <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-              <folding>
-                <element signature="e#28#120#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/PartialApplication.kt">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-core/0.7.3/98274a4ae560f91419b6201ea9a2d13c005bd60a/arrow-core-0.7.3-sources.jar!/arrow/core/PartialFunction.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="-119">
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/Binding.kt">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-syntax/0.7.3/8685dcc3becb350cd56187075b20f2dc8d005ab/arrow-syntax-0.7.3-sources.jar!/arrow/syntax/function/memoization.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="115">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/Reverse.kt">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-              <folding>
-                <element signature="e#28#104#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/Pipes.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="91" selection-start-line="10" selection-start-column="91" selection-end-line="10" selection-end-column="91" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/Currying.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
-              <folding>
-                <element signature="e#28#140#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-syntax/0.7.3/8685dcc3becb350cd56187075b20f2dc8d005ab/arrow-syntax-0.7.3-sources.jar!/arrow/syntax/function/pipe.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/FunctionalChannelPipelines.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="e#28#108#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="91">
+              <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -547,9 +192,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/more/Cargiver.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/more/Canine.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/more/Caregiver.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/more/ExtensionFunctions.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/more/Dog.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/more/InfixFunctions.kt" />
@@ -590,7 +232,6 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functors/OptionMain.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functors/Option.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/functors/CategoryTypesMain.kt" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/FunctionComposition.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/PartialApplication.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/Binding.kt" />
@@ -598,6 +239,10 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/Pipes.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/Currying.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/FunctionalChannelPipelines.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/Memoization.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/PartialFunction.kt" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/OpticsAndLens.kt" />
       </list>
     </option>
   </component>
@@ -672,6 +317,10 @@
               <item name="freesoft" type="462c0819:PsiDirectoryNode" />
               <item name="arrow" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="arrow-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -709,7 +358,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.freesoft.arrow.CurryingKt">
+  <component name="RunManager" selected="Kotlin.com.freesoft.arrow.OpticsAndLensKt">
     <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
       <setting name="replType" value="NREPL" />
       <setting name="execution" value="LEININGEN" />
@@ -739,19 +388,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.freesoft.arrow.BindingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="arrow-demo.main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.freesoft.arrow.BindingKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="com.freesoft.arrow.CurryingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="arrow-demo.main" />
       <option name="VM_PARAMETERS" />
@@ -765,14 +401,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.freesoft.arrow.PartialApplicationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.freesoft.arrow.MemoizationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="arrow-demo.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.freesoft.arrow.PartialApplicationKt" />
+      <option name="MAIN_CLASS_NAME" value="com.freesoft.arrow.MemoizationKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.freesoft.arrow.OpticsAndLensKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="arrow-demo.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.freesoft.arrow.OpticsAndLensKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.freesoft.arrow.PartialFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="arrow-demo.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.freesoft.arrow.PartialFunctionKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -791,19 +453,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.freesoft.arrow.ReverseKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="arrow-demo.main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.freesoft.arrow.ReverseKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -814,19 +463,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.com.freesoft.arrow.PartialApplicationKt" />
-      <item itemvalue="Kotlin.com.freesoft.arrow.BindingKt" />
-      <item itemvalue="Kotlin.com.freesoft.arrow.ReverseKt" />
       <item itemvalue="Kotlin.com.freesoft.arrow.PipesKt" />
       <item itemvalue="Kotlin.com.freesoft.arrow.CurryingKt" />
+      <item itemvalue="Kotlin.com.freesoft.arrow.MemoizationKt" />
+      <item itemvalue="Kotlin.com.freesoft.arrow.PartialFunctionKt" />
+      <item itemvalue="Kotlin.com.freesoft.arrow.OpticsAndLensKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.freesoft.arrow.OpticsAndLensKt" />
+        <item itemvalue="Kotlin.com.freesoft.arrow.PartialFunctionKt" />
+        <item itemvalue="Kotlin.com.freesoft.arrow.MemoizationKt" />
         <item itemvalue="Kotlin.com.freesoft.arrow.CurryingKt" />
         <item itemvalue="Kotlin.com.freesoft.arrow.PipesKt" />
-        <item itemvalue="Kotlin.com.freesoft.arrow.ReverseKt" />
-        <item itemvalue="Kotlin.com.freesoft.arrow.BindingKt" />
-        <item itemvalue="Kotlin.com.freesoft.arrow.PartialApplicationKt" />
       </list>
     </recent_temporary>
   </component>
@@ -882,7 +531,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98539000" />
+    <option name="totallyTimeSpent" value="102742000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1382" height="744" extended-state="6" />
@@ -897,8 +546,8 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.3878887" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.049099836" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3878887" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3420622" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -909,7 +558,7 @@
       <window_info anchor="bottom" id="Statistic" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49924356" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49924356" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
       <window_info anchor="bottom" id="Tail" order="16" />
       <window_info anchor="bottom" id="Spring" order="17" />
@@ -930,7 +579,7 @@
       <window_info anchor="right" id="Maven" order="14" weight="0.15885022" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28366113" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28366113" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -939,8 +588,8 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.20785597" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.049099836" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3878887" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3420622" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -994,58 +643,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.3.0/23a4e24d487cf4838494193e8bbf52f332006557/kotlinx-coroutines-core-1.3.0-sources.jar!/commonMain/channels/Produce.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="89" column="30" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.3.0/23a4e24d487cf4838494193e8bbf52f332006557/kotlinx-coroutines-core-1.3.0-sources.jar!/commonMain/intrinsics/Undispatched.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="129" selection-start-line="129" selection-end-line="129" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.3.0/23a4e24d487cf4838494193e8bbf52f332006557/kotlinx-coroutines-core-1.3.0-sources.jar!/jvmMain/Builders.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="81" selection-start-line="81" selection-end-line="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.3.0/23a4e24d487cf4838494193e8bbf52f332006557/kotlinx-coroutines-core-1.3.0-sources.jar!/commonMain/EventLoop.common.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="270" selection-start-line="270" selection-end-line="270" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.3.0/23a4e24d487cf4838494193e8bbf52f332006557/kotlinx-coroutines-core-1.3.0-sources.jar!/commonMain/Dispatched.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="250" selection-start-line="250" selection-end-line="250" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.3.0/23a4e24d487cf4838494193e8bbf52f332006557/kotlinx-coroutines-core-1.3.0-sources.jar!/commonMain/CoroutineScope.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="717">
-          <caret line="176" column="23" selection-start-line="176" selection-start-column="23" selection-end-line="176" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/channels/ChannelPipelines.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="60" column="1" lean-forward="true" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
-          <folding>
-            <element signature="e#53#201#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/functional/coroutines/ChannelMain.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
@@ -1290,23 +887,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/FunctionComposition.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding>
-            <element signature="e#28#120#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/PartialApplication.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1331,27 +911,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/Pipes.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="91" selection-start-line="10" selection-start-column="91" selection-end-line="10" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/Binding.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/Currying.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
-          <folding>
-            <element signature="e#28#140#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1362,6 +925,92 @@
           <folding>
             <element signature="e#28#108#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/Pipes.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/Currying.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="75" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
+          <folding>
+            <element signature="e#28#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-syntax/0.7.3/8685dcc3becb350cd56187075b20f2dc8d005ab/arrow-syntax-0.7.3-sources.jar!/arrow/syntax/function/memoization.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/Memoization.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="41" column="100" selection-start-line="41" selection-start-column="100" selection-end-line="41" selection-end-column="100" />
+          <folding>
+            <element signature="e#28#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-core/0.7.3/98274a4ae560f91419b6201ea9a2d13c005bd60a/arrow-core-0.7.3-sources.jar!/arrow/core/PartialFunction.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/PartialFunction.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#28#126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.http4k/http4k-core/3.175.0/c49e1798e090c715754dd3bfc9c7480730cc3472/http4k-core-3.175.0-sources.jar!/org/http4k/lens/lens.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/FunctionComposition.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-optics/0.7.3/3e95ac1c9e2bbc79f00d7394bd371cbeb9846568/arrow-optics-0.7.3-sources.jar!/arrow/optics/Lens.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/freesoft/arrow/OpticsAndLens.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="50" column="24" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
         </state>
       </provider>
     </entry>
